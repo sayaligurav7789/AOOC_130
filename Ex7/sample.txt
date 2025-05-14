@@ -1,0 +1,4 @@
+This is a sample text file.
+It contains some words and vowels.
+The letter a appears several times in this text.
+Let's count the vowels, words, and 'a's!
