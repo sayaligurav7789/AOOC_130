@@ -1,0 +1,3 @@
+[submodule "Emp_Payroll"]
+	path = Emp_Payroll
+	url = https://github.com/sayaligurav7789/Emp_Payroll.git
